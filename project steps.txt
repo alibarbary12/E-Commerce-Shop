@@ -1,0 +1,12 @@
+Wallet Schema
+ -user:
+ -funds:
+ -transaction history
+
+Wallet API Endpoints
+ -register
+ -login
+ -create wallet
+ -deposit
+ -withdraw
+ -check balance
